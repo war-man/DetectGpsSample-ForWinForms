@@ -3,7 +3,7 @@
 ### Description
 Upon request of our users, today we publish a project that is the Desktop version of “Detect GPS” for Web. Notice how we use ValueStyle and change the column value of the feature based on the Spatial Query feature at each new position. We chose this structure so that you can have more flexibility for adding more than one moving vehicle features to the InMemoryFeatureLayer. For that, you can pretty much keep the same code and just add an outer loop for looping thru all the moving features.
 
-![Screenshot](https://github.com/ThinkGeo/DetectGPSDesktopSample-ForWinForms/blob/master/ScreenShot.png)
+![Screenshot](https://github.com/ThinkGeo/DetectGPSSample-ForWinForms/blob/master/ScreenShot.png)
 
 ### Requirements
 This sample makes use of the following NuGet Packages
