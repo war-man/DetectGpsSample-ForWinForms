@@ -8,7 +8,7 @@ Upon request of our users, today we publish a project that is the Desktop versio
 ### Requirements
 This sample makes use of the following NuGet Packages
 
-[MapSuite 10.0.0.0](http:mapsuite.nuget)
+[MapSuite 10.0.0.0](https://www.nuget.org/packages?q=thinkgeo)
 
 ### About the Code
 
